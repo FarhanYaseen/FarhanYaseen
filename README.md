@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Full Stack Development, DevOps
 - 📫 How to reach me: ... [Twitter](https://twitter.com/FarhanYaseen_)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I can walk 20,000 steps a day
