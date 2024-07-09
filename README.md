@@ -2,10 +2,15 @@
 
 
 🌱 I’m currently learning Kubernetes
+
 👯 I’m looking to collaborate on NodeJS projects
+
 🤔 I’m looking for help with DevOps (specifically Kubernetes)
+
 💬 Ask me about Full Stack Development, DevOps
+
 📫 How to reach me: [Twitter](https://twitter.com/yourusername)
+
 😄 Pronouns: He/Him
 
 ## About Me
