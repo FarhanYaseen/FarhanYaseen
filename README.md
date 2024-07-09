@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-I'm currently working on ...
 
-🔭 I’m currently working on ...
 🌱 I’m currently learning Kubernetes
 👯 I’m looking to collaborate on NodeJS projects
 🤔 I’m looking for help with DevOps (specifically Kubernetes)
@@ -12,7 +10,7 @@ I'm currently working on ...
 
 ## About Me
 
-I'm a passionate full stack developer with a strong interest in DevOps. I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deep into Kubernetes to enhance my DevOps expertise.
+I'm a passionate full-stack developer with a strong interest in DevOps. I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deep into Kubernetes to enhance my DevOps expertise.
 
 ## Skills
 
