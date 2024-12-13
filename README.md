@@ -66,9 +66,9 @@ Hi there! I'm a **Full-Stack Developer** and budding **DevOps Engineer** with a 
 
 I'm always eager to collaborate and explore exciting opportunities. Whether you're a recruiter, developer, or fellow tech enthusiast, feel free to reach out!  
 
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/farhanyaseen)  
-- **Portfolio**: [Your Portfolio](https://farhanyaseen.netlify.app/)  
+- **Twitter**: [@FarhanYaseen_](https://x.com/FarhanYaseen_)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/farhanyaseen)  
+- **Portfolio**: [Portfolio](https://farhanyaseen.netlify.app)  
 
 ---
 
