@@ -57,8 +57,8 @@ Hi there! I'm a **Full-Stack Developer** and budding **DevOps Engineer** with a 
 
 ## 📊 **Stats & Achievements**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanYaseen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanYaseen&layout=compact&theme=radical)  
 
 ---
 
@@ -67,8 +67,8 @@ Hi there! I'm a **Full-Stack Developer** and budding **DevOps Engineer** with a 
 I'm always eager to collaborate and explore exciting opportunities. Whether you're a recruiter, developer, or fellow tech enthusiast, feel free to reach out!  
 
 - **Twitter**: [@yourusername](https://twitter.com/yourusername)  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)  
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/farhanyaseen)  
+- **Portfolio**: [Your Portfolio](https://farhanyaseen.netlify.app/)  
 
 ---
 
