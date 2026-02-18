@@ -196,7 +196,7 @@ React, Node.js, PostgreSQL, Docker, Jenkins
 
 - 💼 LinkedIn: https://www.linkedin.com/in/farhanyaseen  
 - 💻 GitHub: https://github.com/FarhanYaseen  
-- 📧 Email: farhanyaseen@gmail.com  
+- 📧 Email: farhan.yaseen.se@gmail.com  
 
 📩 **Recruiters & hiring managers — feel free to reach out.**
 
